@@ -15,7 +15,7 @@ execute as @s[scores={imo-a004xd=1..2,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xd=1..126,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock
 
 # spawn chest with all random items
-execute as @s[scores={imo-a004xd=127,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"[{\"text\":\"Super Chest\",\"color\":\"blue\"}]",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xd=127,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"[{\"text\":\"Súper cofre\",\"color\":\"blue\"}]",LootTable:"imo-one-block:superchest"}
 
 # spawns rare chest with all random items + rare items
 execute as @s[scores={imo-a004xd=128,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"[{\"text\":\"Rare Chest\",\"color\":\"dark_purple\"}]",LootTable:"imo-one-block:rarechest"}

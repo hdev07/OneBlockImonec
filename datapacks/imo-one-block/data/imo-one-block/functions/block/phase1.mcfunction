@@ -4,7 +4,7 @@
 
 execute as @s[scores={imo-a004xa=1..3,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:oak_log replace minecraft:barrier
-execute as @s[scores={imo-a004xa=5,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Plains Chest\"",LootTable:"imo-one-block:chestphase1"}
+execute as @s[scores={imo-a004xa=5,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de llanuras\"",LootTable:"imo-one-block:chestphase1"}
 execute as @s[scores={imo-a004xa=6..9,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=10,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:oak_log replace minecraft:barrier
 execute as @s[scores={imo-a004xa=11..13,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
@@ -16,7 +16,7 @@ execute as @s[scores={imo-a004xa=23..24,imo-a004xc=1}] at @s align xz positioned
 execute as @s[scores={imo-a004xa=25..27,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=25..27,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock1
 execute as @s[scores={imo-a004xa=28,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:oak_log replace minecraft:barrier
-execute as @s[scores={imo-a004xa=29,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Plains Chest\"",LootTable:"imo-one-block:chestphase1"}
+execute as @s[scores={imo-a004xa=29,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de llanuras\"",LootTable:"imo-one-block:chestphase1"}
 execute as @s[scores={imo-a004xa=30..32,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=33..34,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:oak_log replace minecraft:barrier
 execute as @s[scores={imo-a004xa=35..37,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:pumpkin replace minecraft:barrier
@@ -29,7 +29,7 @@ execute as @s[scores={imo-a004xa=50..52,imo-a004xc=1}] at @s align xz positioned
 execute as @s[scores={imo-a004xa=53..57,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=53..57,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock1
 execute as @s[scores={imo-a004xa=58..62,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:podzol replace minecraft:barrier
-execute as @s[scores={imo-a004xa=63,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Plains Chest\"",LootTable:"imo-one-block:chestphase1"}
+execute as @s[scores={imo-a004xa=63,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de llanuras\"",LootTable:"imo-one-block:chestphase1"}
 execute as @s[scores={imo-a004xa=64,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:melon replace minecraft:barrier
 execute as @s[scores={imo-a004xa=65..68,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=69..70,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
@@ -50,7 +50,7 @@ execute as @s[scores={imo-a004xa=105,imo-a004xc=1}] at @s align xz positioned ~0
 execute as @s[scores={imo-a004xa=105..108,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=105..108,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock1
 execute as @s[scores={imo-a004xa=109..113,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
-execute as @s[scores={imo-a004xa=114,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Plains Chest\"",LootTable:"imo-one-block:chestphase1"}
+execute as @s[scores={imo-a004xa=114,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de llanuras\"",LootTable:"imo-one-block:chestphase1"}
 execute as @s[scores={imo-a004xa=115..116,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=117..121,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=122..124,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:oak_log replace minecraft:barrier
@@ -67,7 +67,7 @@ execute as @s[scores={imo-a004xa=143,imo-a004xc=1}] at @s align xz positioned ~0
 execute as @s[scores={imo-a004xa=144..145,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:oak_log replace minecraft:barrier
 execute as @s[scores={imo-a004xa=146..148,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=149..151,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
-execute as @s[scores={imo-a004xa=152,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Plains Chest\"",LootTable:"imo-one-block:chestphase1"}
+execute as @s[scores={imo-a004xa=152,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de llanuras\"",LootTable:"imo-one-block:chestphase1"}
 execute as @s[scores={imo-a004xa=153..154,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=155..157,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:oak_log replace minecraft:barrier
 execute as @s[scores={imo-a004xa=158,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
@@ -114,4 +114,4 @@ execute as @s[scores={imo-a004xa=242,imo-a004xc=1}] at @s align xz positioned ~0
 execute as @s[scores={imo-a004xa=242,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob1
 execute as @s[scores={imo-a004xa=242..251,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=242..251,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock1
-execute as @s[scores={imo-a004xa=252,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"color\":\"dark_red\",\"text\":\"Benevolent Gift\"}",Items:[{Slot:3,id:carrot,Count:1},{Slot:13,id:apple,Count:3},{Slot:1,id:oak_sapling,Count:1},{Slot:16,id:birch_sapling,Count:2},{Slot:21,id:water_bucket,Count:1},{Slot:24,id:map,Count:1}]}
+execute as @s[scores={imo-a004xa=252,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"color\":\"dark_red\",\"text\":\"Regalo benévolo\"}",Items:[{Slot:3,id:carrot,Count:1},{Slot:13,id:apple,Count:3},{Slot:1,id:oak_sapling,Count:1},{Slot:16,id:birch_sapling,Count:2},{Slot:21,id:water_bucket,Count:1},{Slot:24,id:map,Count:1}]}

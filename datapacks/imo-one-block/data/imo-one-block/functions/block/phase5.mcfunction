@@ -48,7 +48,7 @@ execute as @s[scores={imo-a004xa=2304..2307,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=2308,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:panda ~ ~2.5 ~
 execute as @s[scores={imo-a004xa=2308..2310,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:green_terracotta replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2311..2312,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:lapis_ore replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2313,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Jungle Chest\"",LootTable:"imo-one-block:chestphase5"}
+execute as @s[scores={imo-a004xa=2313,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de la selva\"",LootTable:"imo-one-block:chestphase5"}
 execute as @s[scores={imo-a004xa=2314..2316,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:diorite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2317..2318,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:iron_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2319..2321,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:jungle_log replace minecraft:barrier
@@ -84,13 +84,13 @@ execute as @s[scores={imo-a004xa=2404..2408,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=2404..2408,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock5
 execute as @s[scores={imo-a004xa=2409..2412,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:redstone_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2413..2416,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:lapis_ore replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2417,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Jungle Chest\"",LootTable:"imo-one-block:chestphase5"}
+execute as @s[scores={imo-a004xa=2417,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de la selva\"",LootTable:"imo-one-block:chestphase5"}
 execute as @s[scores={imo-a004xa=2418..2421,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2422,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=2422,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob5
 execute as @s[scores={imo-a004xa=2422,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:coal_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2423,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2424,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=2424,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=2425..2428,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2429..2433,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:gold_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2434..2437,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:lime_terracotta replace minecraft:barrier
@@ -125,7 +125,7 @@ execute as @s[scores={imo-a004xa=2504,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=2504..2506,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2507..2509,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2510,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:redstone_ore replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2511,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Jungle Chest\"",LootTable:"imo-one-block:chestphase5"}
+execute as @s[scores={imo-a004xa=2511,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de la selva\"",LootTable:"imo-one-block:chestphase5"}
 execute as @s[scores={imo-a004xa=2512..2516,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:mossy_cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2517,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:coal_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2518..2521,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:lime_terracotta replace minecraft:barrier
@@ -161,7 +161,7 @@ execute as @s[scores={imo-a004xa=2591..2594,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=2595..2596,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:mossy_cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2597..2599,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:diorite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2600..2601,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:jungle_log replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2602,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Jungle Chest\"",LootTable:"imo-one-block:chestphase5"}
+execute as @s[scores={imo-a004xa=2602,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de la selva\"",LootTable:"imo-one-block:chestphase5"}
 execute as @s[scores={imo-a004xa=2603..2605,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2606..2610,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:mossy_cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2611,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
@@ -170,7 +170,7 @@ execute as @s[scores={imo-a004xa=2611..2615,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=2616,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:jungle_log replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2617..2619,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2620..2623,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:diorite replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2624,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=2624,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=2625..2627,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=2625..2627,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock5
 execute as @s[scores={imo-a004xa=2628,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:green_terracotta replace minecraft:barrier
@@ -201,7 +201,7 @@ execute as @s[scores={imo-a004xa=2675..2677,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=2678,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:diorite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2679,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2680..2682,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2683,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Jungle Chest\"",LootTable:"imo-one-block:chestphase5"}
+execute as @s[scores={imo-a004xa=2683,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de la selva\"",LootTable:"imo-one-block:chestphase5"}
 execute as @s[scores={imo-a004xa=2684,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2685..2687,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:mossy_cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2688..2691,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
@@ -243,7 +243,7 @@ execute as @s[scores={imo-a004xa=2752..2756,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=2752..2756,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock5
 execute as @s[scores={imo-a004xa=2757..2759,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:mossy_cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2760..2764,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2765,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Jungle Chest\"",LootTable:"imo-one-block:chestphase5"}
+execute as @s[scores={imo-a004xa=2765,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de la selva\"",LootTable:"imo-one-block:chestphase5"}
 execute as @s[scores={imo-a004xa=2766..2769,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2770..2773,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:mossy_cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2774..2775,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
@@ -256,7 +256,7 @@ execute as @s[scores={imo-a004xa=2782,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=2783..2787,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:mossy_cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2788..2792,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2793..2795,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2796,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=2796,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=2797..2800,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=2797..2800,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock5
 execute as @s[scores={imo-a004xa=2801..2802,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cobblestone replace minecraft:barrier
@@ -286,7 +286,7 @@ execute as @s[scores={imo-a004xa=2835..2839,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=2840..2842,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2843..2845,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2846,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
-execute as @s[scores={imo-a004xa=2847,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Jungle Chest\"",LootTable:"imo-one-block:chestphase5"}
+execute as @s[scores={imo-a004xa=2847,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de la selva\"",LootTable:"imo-one-block:chestphase5"}
 execute as @s[scores={imo-a004xa=2848..2850,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2851..2855,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=2851..2855,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock5
@@ -314,4 +314,4 @@ execute as @s[scores={imo-a004xa=2900,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=2900,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob5
 execute as @s[scores={imo-a004xa=2900..2909,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=2900..2909,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock5
-execute as @s[scores={imo-a004xa=2910,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=2910,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}

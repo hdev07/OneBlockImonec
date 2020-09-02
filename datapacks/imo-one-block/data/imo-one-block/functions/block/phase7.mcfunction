@@ -44,7 +44,7 @@ execute as @s[scores={imo-a004xa=3846..3848,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=3849,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:ghast ~ ~2.5 ~
 execute as @s[scores={imo-a004xa=3849..3854,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
 execute as @s[scores={imo-a004xa=3855..3858,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:soul_sand replace minecraft:barrier
-execute as @s[scores={imo-a004xa=3859,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Nether Chest\"",LootTable:"imo-one-block:chestphase7"}
+execute as @s[scores={imo-a004xa=3859,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre infernal\"",LootTable:"imo-one-block:chestphase7"}
 execute as @s[scores={imo-a004xa=3860..3862,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_wart_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=3863..3865,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:red_nether_bricks replace minecraft:barrier
 execute as @s[scores={imo-a004xa=3866..3869,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:glowstone replace minecraft:barrier
@@ -83,11 +83,11 @@ execute as @s[scores={imo-a004xa=3979..3985,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=3986..3988,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_quartz_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=3989..3991,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_wart_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=3992..3994,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_quartz_ore replace minecraft:barrier
-execute as @s[scores={imo-a004xa=3995,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Nether Chest\"",LootTable:"imo-one-block:chestphase7"}
+execute as @s[scores={imo-a004xa=3995,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre infernal\"",LootTable:"imo-one-block:chestphase7"}
 execute as @s[scores={imo-a004xa=3996,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:glowstone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=3997..3999,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_bricks replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4000..4001,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:glowstone replace minecraft:barrier
-execute as @s[scores={imo-a004xa=4002,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=4002,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=4003..4005,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_quartz_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4006..4013,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4014,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
@@ -122,7 +122,7 @@ execute as @s[scores={imo-a004xa=4074..4076,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=4077..4082,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4083..4088,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:soul_sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4089..4091,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:soul_sand replace minecraft:barrier
-execute as @s[scores={imo-a004xa=4092,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Nether Chest\"",LootTable:"imo-one-block:chestphase7"}
+execute as @s[scores={imo-a004xa=4092,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre infernal\"",LootTable:"imo-one-block:chestphase7"}
 execute as @s[scores={imo-a004xa=4093..4095,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:glowstone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4096,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=4096,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob7
@@ -162,7 +162,7 @@ execute as @s[scores={imo-a004xa=4182,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=4182..4183,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:soul_sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4184..4186,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:magma_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4187..4191,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
-execute as @s[scores={imo-a004xa=4192,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Nether Chest\"",LootTable:"imo-one-block:chestphase7"}
+execute as @s[scores={imo-a004xa=4192,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre infernal\"",LootTable:"imo-one-block:chestphase7"}
 execute as @s[scores={imo-a004xa=4193..4194,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:soul_sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4195..4198,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:magma_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4199..4202,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
@@ -173,7 +173,7 @@ execute as @s[scores={imo-a004xa=4207..4209,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=4207..4209,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock7
 execute as @s[scores={imo-a004xa=4210,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=4210,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob7
-execute as @s[scores={imo-a004xa=4210,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=4210,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=4211,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_wart_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4212..4214,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4215..4216,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:soul_sand replace minecraft:barrier
@@ -202,7 +202,7 @@ execute as @s[scores={imo-a004xa=4264,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=4264..4267,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_bricks replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4268..4269,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4270..4271,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_bricks replace minecraft:barrier
-execute as @s[scores={imo-a004xa=4272,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Nether Chest\"",LootTable:"imo-one-block:chestphase7"}
+execute as @s[scores={imo-a004xa=4272,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre infernal\"",LootTable:"imo-one-block:chestphase7"}
 execute as @s[scores={imo-a004xa=4273..4276,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=4273..4276,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock7
 execute as @s[scores={imo-a004xa=4277..4280,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
@@ -242,7 +242,7 @@ execute as @s[scores={imo-a004xa=4348..4350,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=4351..4352,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4353..4356,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_bricks replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4357..4360,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_quartz_ore replace minecraft:barrier
-execute as @s[scores={imo-a004xa=4361,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Nether Chest\"",LootTable:"imo-one-block:chestphase7"}
+execute as @s[scores={imo-a004xa=4361,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre infernal\"",LootTable:"imo-one-block:chestphase7"}
 execute as @s[scores={imo-a004xa=4362..4365,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4366,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:soul_sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4367..4369,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_quartz_ore replace minecraft:barrier
@@ -255,7 +255,7 @@ execute as @s[scores={imo-a004xa=4377,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=4377..4379,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:nether_bricks replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4380,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:netherrack replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4381..4382,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:soul_sand replace minecraft:barrier
-execute as @s[scores={imo-a004xa=4383,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=4383,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=4384..4385,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:magma_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4386..4390,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:magma_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4391..4392,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:glowstone replace minecraft:barrier
@@ -281,7 +281,7 @@ execute as @s[scores={imo-a004xa=4427..4430,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=4431,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=4431,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob7
 execute as @s[scores={imo-a004xa=4431..4434,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:magma_block replace minecraft:barrier
-execute as @s[scores={imo-a004xa=4435,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Nether Chest\"",LootTable:"imo-one-block:chestphase7"}
+execute as @s[scores={imo-a004xa=4435,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre infernal\"",LootTable:"imo-one-block:chestphase7"}
 execute as @s[scores={imo-a004xa=4436..4437,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:glowstone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4438,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:glowstone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=4439,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:magma_block replace minecraft:barrier
@@ -306,4 +306,4 @@ execute as @s[scores={imo-a004xa=4481,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=4481,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob7
 execute as @s[scores={imo-a004xa=4481..4490,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=4481..4490,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock7
-execute as @s[scores={imo-a004xa=4491,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=4491,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}

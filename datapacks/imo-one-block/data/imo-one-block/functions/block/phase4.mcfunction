@@ -49,7 +49,7 @@ execute as @s[scores={imo-a004xa=1515..1520,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1521,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:drowned ~ ~2.5 ~ {ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1}]}
 execute as @s[scores={imo-a004xa=1521..1525,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cyan_terracotta replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1526,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:coal_ore replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1527,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Ocean Chest\"",LootTable:"imo-one-block:chestphase4"}
+execute as @s[scores={imo-a004xa=1527,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre del océano\"",LootTable:"imo-one-block:chestphase4"}
 execute as @s[scores={imo-a004xa=1528..1533,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1534..1537,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1538..1542,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine replace minecraft:barrier
@@ -83,12 +83,12 @@ execute as @s[scores={imo-a004xa=1603..1604,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1605..1609,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sea_lantern replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1610..1613,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:dark_prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1614..1618,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1619,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Ocean Chest\"",LootTable:"imo-one-block:chestphase4"}
+execute as @s[scores={imo-a004xa=1619,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre del océano\"",LootTable:"imo-one-block:chestphase4"}
 execute as @s[scores={imo-a004xa=1620..1624,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1625..1628,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:blue_terracotta replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1629..1630,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:blue_terracotta replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1631,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:pufferfish ~ ~2.5 ~
-execute as @s[scores={imo-a004xa=1631,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=1631,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=1632..1634,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1635,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:tube_coral_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1636,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sea_lantern replace minecraft:barrier
@@ -120,7 +120,7 @@ execute as @s[scores={imo-a004xa=1711..1714,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1715,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:dolphin ~ ~2.5 ~
 execute as @s[scores={imo-a004xa=1715..1719,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1720..1724,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sand replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1725,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Ocean Chest\"",LootTable:"imo-one-block:chestphase4"}
+execute as @s[scores={imo-a004xa=1725,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre del océano\"",LootTable:"imo-one-block:chestphase4"}
 execute as @s[scores={imo-a004xa=1726..1732,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=1726..1732,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock4
 execute as @s[scores={imo-a004xa=1733..1736,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
@@ -157,14 +157,14 @@ execute as @s[scores={imo-a004xa=1797..1800,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1801,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:redstone_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1802..1805,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:dark_oak_log replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1806..1807,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:dried_kelp_block replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1808,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Ocean Chest\"",LootTable:"imo-one-block:chestphase4"}
+execute as @s[scores={imo-a004xa=1808,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre del océano\"",LootTable:"imo-one-block:chestphase4"}
 execute as @s[scores={imo-a004xa=1809,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:lapis_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1810,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sea_lantern replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1811,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:fire_coral_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1812,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:lapis_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1813..1814,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1815,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1816,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=1816,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=1817..1821,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1822..1825,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sea_lantern replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1826,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
@@ -195,7 +195,7 @@ execute as @s[scores={imo-a004xa=1881..1884,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1885,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1886,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1887,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:dark_oak_log replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1888,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Ocean Chest\"",LootTable:"imo-one-block:chestphase4"}
+execute as @s[scores={imo-a004xa=1888,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre del océano\"",LootTable:"imo-one-block:chestphase4"}
 execute as @s[scores={imo-a004xa=1889..1891,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine_bricks replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1892..1895,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:dark_prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1896,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sand replace minecraft:barrier
@@ -233,7 +233,7 @@ execute as @s[scores={imo-a004xa=1961..1964,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1965,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:dark_prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1966,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:dark_prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1967..1969,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sand replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1970,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Ocean Chest\"",LootTable:"imo-one-block:chestphase4"}
+execute as @s[scores={imo-a004xa=1970,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre del océano\"",LootTable:"imo-one-block:chestphase4"}
 execute as @s[scores={imo-a004xa=1971..1975,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1976..1979,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1980..1983,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
@@ -245,7 +245,7 @@ execute as @s[scores={imo-a004xa=1991,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=1992,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:sand replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1993,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cyan_terracotta replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1994..1995,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1996,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=1996,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
 execute as @s[scores={imo-a004xa=1997..2001,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:cyan_terracotta replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2002..2006,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:dark_prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2007,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine_bricks replace minecraft:barrier
@@ -271,7 +271,7 @@ execute as @s[scores={imo-a004xa=2049,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=2050..2051,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2052..2057,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=2052..2057,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock4
-execute as @s[scores={imo-a004xa=2058,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Ocean Chest\"",LootTable:"imo-one-block:chestphase4"}
+execute as @s[scores={imo-a004xa=2058,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre del océano\"",LootTable:"imo-one-block:chestphase4"}
 execute as @s[scores={imo-a004xa=2059..2061,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2062..2065,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine_bricks replace minecraft:barrier
 execute as @s[scores={imo-a004xa=2066..2067,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:prismarine_bricks replace minecraft:barrier
@@ -311,4 +311,4 @@ execute as @s[scores={imo-a004xa=2142,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=2142,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob4
 execute as @s[scores={imo-a004xa=2142..2151,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=2142..2151,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock4
-execute as @s[scores={imo-a004xa=2152,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Super Chest\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}
+execute as @s[scores={imo-a004xa=2152,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"{\"text\":\"Súper cofre\",\"color\":\"blue\"}",LootTable:"imo-one-block:superchest"}

@@ -89,7 +89,7 @@ execute as @e[tag=imo-a4-block,scores={imo-a004xc=1}] at @s run playsound minecr
 # display special particles if chests are currently spawned
 execute as @e[tag=imo-a4-block] at @s if block ~ ~ ~ chest{CustomName:'{"color":"blue","text":"Súper cofre"}'} run particle minecraft:sneeze ~ ~ ~ 0.5 0.5 0.5 0.001 3 force
 execute as @e[tag=imo-a4-block] at @s if block ~ ~ ~ chest{CustomName:'{"color":"dark_purple","text":"Cofre raro"}'} run particle minecraft:dragon_breath ~ ~ ~ 0 0 0 0.02 10 force
-execute as @e[tag=imo-a4-block] at @s if block ~ ~ ~ chest{CustomName:'{"color":"dark_red","text":"Benevolent Gift"}'} run particle minecraft:heart ~ ~ ~ 0.5 0.5 0.5 0.01 1 force
+execute as @e[tag=imo-a4-block] at @s if block ~ ~ ~ chest{CustomName:'{"color":"dark_red","text":"Regalo benévolo"}'} run particle minecraft:heart ~ ~ ~ 0.5 0.5 0.5 0.01 1 force
 
 # count down cooldown
 scoreboard players add @e[tag=imo-a4-block] imo-a004xc 0

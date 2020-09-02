@@ -43,7 +43,7 @@ execute as @s[scores={imo-a004xa=803..807,imo-a004xc=1}] at @s align xz position
 execute as @s[scores={imo-a004xa=808..810,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:coal_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=811..815,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:packed_ice replace minecraft:barrier
 execute as @s[scores={imo-a004xa=816..820,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:white_concrete_powder replace minecraft:barrier
-execute as @s[scores={imo-a004xa=821,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Snow Chest\"",LootTable:"imo-one-block:chestphase3"}
+execute as @s[scores={imo-a004xa=821,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de nieve\"",LootTable:"imo-one-block:chestphase3"}
 execute as @s[scores={imo-a004xa=822..824,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:gravel replace minecraft:barrier
 execute as @s[scores={imo-a004xa=825..827,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:gray_terracotta replace minecraft:barrier
 execute as @s[scores={imo-a004xa=828,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:andesite replace minecraft:barrier
@@ -80,7 +80,7 @@ execute as @s[scores={imo-a004xa=921..926,imo-a004xc=1}] at @s align xz position
 execute as @s[scores={imo-a004xa=927..931,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=927..931,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock3
 execute as @s[scores={imo-a004xa=932..934,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
-execute as @s[scores={imo-a004xa=935,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Snow Chest\"",LootTable:"imo-one-block:chestphase3"}
+execute as @s[scores={imo-a004xa=935,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de nieve\"",LootTable:"imo-one-block:chestphase3"}
 execute as @s[scores={imo-a004xa=936..940,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=936..940,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock3
 execute as @s[scores={imo-a004xa=941,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
@@ -119,7 +119,7 @@ execute as @s[scores={imo-a004xa=1015..1017,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1018..1022,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:andesite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1023..1026,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:iron_ore replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1027..1028,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:white_concrete_powder replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1029,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Snow Chest\"",LootTable:"imo-one-block:chestphase3"}
+execute as @s[scores={imo-a004xa=1029,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de nieve\"",LootTable:"imo-one-block:chestphase3"}
 execute as @s[scores={imo-a004xa=1030..1034,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block[snowy=true] replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1035,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=1035,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob3
@@ -156,7 +156,7 @@ execute as @s[scores={imo-a004xa=1101..1103,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1104,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1105..1108,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:andesite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1109,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1110,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Snow Chest\"",LootTable:"imo-one-block:chestphase3"}
+execute as @s[scores={imo-a004xa=1110,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de nieve\"",LootTable:"imo-one-block:chestphase3"}
 execute as @s[scores={imo-a004xa=1111..1114,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1115,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block[snowy=true] replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1116,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
@@ -193,7 +193,7 @@ execute as @s[scores={imo-a004xa=1175,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=1176..1179,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block[snowy=true] replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1180..1181,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:gravel replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1182..1185,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1186,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Snow Chest\"",LootTable:"imo-one-block:chestphase3"}
+execute as @s[scores={imo-a004xa=1186,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de nieve\"",LootTable:"imo-one-block:chestphase3"}
 execute as @s[scores={imo-a004xa=1187..1191,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:diorite replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1192..1194,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:snow_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1195,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
@@ -232,7 +232,7 @@ execute as @s[scores={imo-a004xa=1250,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=1250,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock3
 execute as @s[scores={imo-a004xa=1251..1253,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1254..1255,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
-execute as @s[scores={imo-a004xa=1256,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Snow Chest\"",LootTable:"imo-one-block:chestphase3"}
+execute as @s[scores={imo-a004xa=1256,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de nieve\"",LootTable:"imo-one-block:chestphase3"}
 execute as @s[scores={imo-a004xa=1257..1259,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block[snowy=true] replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1260..1264,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1265..1267,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:granite replace minecraft:barrier
@@ -269,7 +269,7 @@ execute as @s[scores={imo-a004xa=1323..1325,imo-a004xc=1}] at @s align xz positi
 execute as @s[scores={imo-a004xa=1326..1328,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:gravel replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1329,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=1329,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob3
-execute as @s[scores={imo-a004xa=1329,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Snow Chest\"",LootTable:"imo-one-block:chestphase3"}
+execute as @s[scores={imo-a004xa=1329,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de nieve\"",LootTable:"imo-one-block:chestphase3"}
 execute as @s[scores={imo-a004xa=1330..1332,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:snow_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1333,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:gravel replace minecraft:barrier
 execute as @s[scores={imo-a004xa=1334..1336,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:diorite replace minecraft:barrier
@@ -292,4 +292,4 @@ execute as @s[scores={imo-a004xa=1376,imo-a004xc=1}] at @s align xz positioned ~
 execute as @s[scores={imo-a004xa=1376,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnmob3
 execute as @s[scores={imo-a004xa=1376..1385,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=1376..1385,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock3
-execute as @s[scores={imo-a004xa=1386,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Snow Chest\"",LootTable:"imo-one-block:chestphase3"}
+execute as @s[scores={imo-a004xa=1386,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~ ~ minecraft:chest[facing=east]{CustomName:"\"Cofre de nieve\"",LootTable:"imo-one-block:chestphase3"}
