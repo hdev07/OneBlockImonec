@@ -5,7 +5,7 @@
 execute as @s[scores={imo-a004xa=685,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}
 execute as @s[scores={imo-a004xa=685,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @a {"text":"\n You reached phase 3: Snow Biome!","color":"gold"}
 execute as @s[scores={imo-a004xa=685,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @a {"text":" Winter covers the land with its icy hands.","color":"yellow"}
-execute as @s[scores={imo-a004xa=685,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @a {"text":"\n ","italic":"true","extra":[{"text":"[?] Click here to open the help menu.","color":"gray","clickEvent":{"action":"run_command","value":"/trigger imo-a4 set 1"},"hoverEvent":{"action":"show_text","value":"Opens the help menu."}}]}
+execute as @s[scores={imo-a004xa=685,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @a {"text":"\n ","italic":"true","extra":[{"text":"[?] Click here to open the Menú de ayuda.","color":"gray","clickEvent":{"action":"run_command","value":"/trigger imo-a4 set 1"},"hoverEvent":{"action":"show_text","value":"Opens the Menú de ayuda."}}]}
 execute as @s[scores={imo-a004xa=685..692,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block[snowy=true] replace minecraft:barrier
 execute as @s[scores={imo-a004xa=693..704,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:snow_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=705..708,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block[snowy=true] replace minecraft:barrier

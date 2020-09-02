@@ -5,7 +5,7 @@
 execute as @s[scores={imo-a004xa=254,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @s {"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}
 execute as @s[scores={imo-a004xa=254,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @a {"text":"\n You reached phase 2: The Underground!","color":"gold"}
 execute as @s[scores={imo-a004xa=254,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @a {"text":" Many a monster roam the world's underbelly.","color":"yellow"}
-execute as @s[scores={imo-a004xa=254,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @a {"text":"\n ","italic":"true","extra":[{"text":"[?] Click here to open the help menu.","color":"gray","clickEvent":{"action":"run_command","value":"/trigger imo-a4 set 1"},"hoverEvent":{"action":"show_text","value":"Opens the help menu."}}]}
+execute as @s[scores={imo-a004xa=254,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run tellraw @a {"text":"\n ","italic":"true","extra":[{"text":"[?] Click here to open the Menú de ayuda.","color":"gray","clickEvent":{"action":"run_command","value":"/trigger imo-a4 set 1"},"hoverEvent":{"action":"show_text","value":"Opens the Menú de ayuda."}}]}
 execute as @s[scores={imo-a004xa=254..259,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier
 execute as @s[scores={imo-a004xa=260..262,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:gravel replace minecraft:barrier
 execute as @s[scores={imo-a004xa=263..270,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:stone replace minecraft:barrier

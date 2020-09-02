@@ -1,4 +1,4 @@
-  execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run fill ~2 ~-2 ~2 ~-2 ~-2 ~-2 minecraft:obsidian
+execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run fill ~2 ~-2 ~2 ~-2 ~-2 ~-2 minecraft:obsidian
 execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run fill ~1 ~-2 ~1 ~-1 ~-2 ~-1 minecraft:air
 execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run fill ~2 ~-2 ~1 ~2 ~-2 ~-1 minecraft:end_portal_frame[eye=true,facing=west]
 execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~2 ~-2 ~ minecraft:end_portal_frame[eye=false,facing=west]
@@ -8,7 +8,7 @@ execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run fill ~1 ~-2 ~2 ~-1 ~-2 ~
 execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~-2 ~2 minecraft:end_portal_frame[eye=false,facing=north]
 execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run fill ~1 ~-2 ~-2 ~-1 ~-2 ~-2 minecraft:end_portal_frame[eye=true,facing=south]
 execute as @s at @s align xz positioned ~0.5 ~ ~0.5 run setblock ~ ~-2 ~-2 minecraft:end_portal_frame[eye=false,facing=south]
-tellraw @a {"text":"Respawned the end portal.","color":"light_purple"}
+tellraw @a {"text":"Reapareció el portal final.","color":"light_purple"}
 
 # particle effects for 10 seconds
 scoreboard players set @s imo-a004xi 200

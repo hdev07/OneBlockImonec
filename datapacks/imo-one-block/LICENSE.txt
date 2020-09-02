@@ -5,22 +5,30 @@
 █  █ █  █ █     █  █  █  █  █  █ █  █   █
  ██   ██  █     █  █  █ ███  ██  █  █   █
 
-The terms 'this work' or 'work' in this document refer to all the files included in the folder or zip archive that contains this document.
+Los términos "este trabajo" en este documento se refieren a todos los archivos incluidos en la carpeta o archivo zip que contiene este documento.
 
-(1) You are NOT allowed to:
-- copy, distribute and transmit this work
-- change, edit and adapt this work for commerical use
+(1) NO se le permite:
+- copiar, distribuir y transmitir este trabajo
+- cambiar, editar y adaptar este trabajo para uso comercial
 
-(2) You are allowed to:
-- privately use this work in your Minecraft game client
-- showcase your own recorded footage of this work, commercially and privately, in videos, blogs, articles and similar mediums if you credit IJAMinecraft (see Point 3)
-- use this work in your Minecraft maps, worlds, or on your server if you credit IJAMinecraft (see Point 4)
-- adapt this work if you don't share the edited version publically (see Point 5)
+(2) Se le permite:
+- usa este trabajo de forma privada en tu cliente de juego de Minecraft
+- muestre sus propias imágenes grabadas de este trabajo, de manera comercial y privada, en videos, blogs, artículos y medios similares si 
+  le da crédito a Los Elejidos Del Senpai (consulte el punto 3)
+- use este trabajo en sus mapas, mundos de Minecraft o en su servidor si le da crédito a Los Elejidos Del Senpai (vea el punto 4)
+- adapte este trabajo si no comparte públicamente la versión editada (ver Punto 5)
 
-(3) If you want to showcase footage of this work in YouTube videos, blogs and similar, you must add a clearly visible disclaimer stating IJAMinecraft as the author with a clearly visible link to this work on IJAMinecraft's website into your work (e.g. video description, article footer, ...). The disclaimer may look similar to the following example: 'Data pack by IJAMinecraft ijaminecraft.com/...'
+(3) Si desea mostrar imágenes de este trabajo en videos de YouTube, blogs y similares, debe agregar un descargo de responsabilidad claramente visible 
+que indique que Los Elejidos Del Senpai es el autor con un enlace claramente visible a este trabajo en el sitio web de Los Elejidos Del Senpai en su trabajo 
+(por ejemplo, descripción del video , pie de página del artículo, ...). El descargo de responsabilidad puede parecer similar al siguiente ejemplo: 
+'Paquete de datos de Los Elejidos Del Senpai/ ...'
 
-(4) If you want to use this work in a Minecraft map, world or server that you want to share publically, you need to add a clearly visible disclaimer which must state that you are using IJAMinecraft's work. The disclaimer must also provide a link to either IJAMinecraft's YouTube channel or the work on IJAMinecraft's website. The disclaimer should look similar to the following example: 'This {map|world|server} uses a data pack by IJAMinecraft. You can find it on ijaminecraft.com/...'
+(4) Si desea usar este trabajo en un mapa, mundo o servidor de Minecraft que desea compartir públicamente, debe agregar un descargo de responsabilidad 
+claramente visible que debe indicar que está utilizando el trabajo de Los Elejidos Del Senpai. El descargo de responsabilidad también debe proporcionar un enlace al 
+canal de YouTube de Los Elejidos Del Senpai o al trabajo en el sitio web de Los Elejidos Del Senpai. El descargo de responsabilidad debería ser similar al siguiente 
+ejemplo: 'Este {mapa | mundo | servidor} usa un paquete de datos de Los Elejidos Del Senpai/ ... '
 
-(5) It's not allowed to edit this work and then share it. But if you want to edit these files to use them in your own work that you then want to share publically, you are allowed to do so if you credit IJAMinecraft. For how you can properly credit IJAMinecraft, look at point 4.
+(5) No está permitido editar este trabajo y luego compartirlo. Pero si desea editar estos archivos para usarlos en su propio trabajo que luego desea compartir 
+públicamente, puede hacerlo si le da crédito a Los Elejidos Del Senpai. Para saber cómo puede acreditar adecuadamente Los Elejidos Del Senpai, consulte el punto 4.
 
-========================================================
+======================================================

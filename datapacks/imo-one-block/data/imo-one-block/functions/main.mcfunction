@@ -5,8 +5,8 @@
 #        █  █  █ █  █ █   █  █  █  ██ █    █  █ █  █ █  █ █      █
 #       ███  ██  █  █ █   █ ███ █   █ ████  ██  █  █ █  █ █      █
 #
-# 		This data pack was made by IJAMinecraft @ ijaminecraft.com
-# 		You can visit me here: youtube.com/user/IJAMinecraft
+# 		This data pack was made by imoMinecraft @ imominecraft.com
+# 		You can visit me here: youtube.com/user/imoMinecraft
 # 		========================================================
 #
 

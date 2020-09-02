@@ -1,7 +1,7 @@
   # execute triggers
 # ---------------------------------
 
-# open help menu
+# open Menú de ayuda
 execute as @a[scores={imo-a4=1}] at @s run function imo-one-block:help
 
 # open chests help page

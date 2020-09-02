@@ -38,7 +38,7 @@ execute as @e[tag=imo-a4-mined] at @s run fill ~ ~ ~ ~ ~ ~ minecraft:barrier rep
 
 
 # tell players their 'block mining' score
-execute as @a[scores={imo-a004xOnline=1,imo-a004xe=1..}] at @s run tellraw @s {"text":"\nYou mined ","color":"yellow","extra":[{"score":{"name":"@s","objective":"imo-a004xe"},"bold":"true","color":"gold"},{"text":" of "},{"score":{"name":"@e[tag=imo-a4-block,limit=1]","objective":"imo-a004xe"}},{"text":" total blocks."}]}
+execute as @a[scores={imo-a004xOnline=1,imo-a004xe=1..}] at @s run tellraw @s {"text":"\nHaz minado ","color":"yellow","extra":[{"score":{"name":"@s","objective":"imo-a004xe"},"bold":"true","color":"gold"},{"text":" of "},{"score":{"name":"@e[tag=imo-a4-block,limit=1]","objective":"imo-a004xe"}},{"text":" total blocks."}]}
 
 # cap 'blocks mined' counter at 2.000.000.000
 scoreboard players set @e[scores={imo-a004xe=2000000001..}] imo-a004xe 2000000000
