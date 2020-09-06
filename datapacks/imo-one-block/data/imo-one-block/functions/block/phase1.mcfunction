@@ -23,7 +23,7 @@ execute as @s[scores={imo-a004xa=35..37,imo-a004xc=1}] at @s align xz positioned
 execute as @s[scores={imo-a004xa=38,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:melon replace minecraft:barrier
 execute as @s[scores={imo-a004xa=39..43,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=44..48,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
-execute as @s[scores={imo-a004xa=49,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:pig ~ ~2.5 ~
+execute as @s[scores={imo-a004xa=49,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:chicken ~ ~2.5 ~
 execute as @s[scores={imo-a004xa=49,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:podzol replace minecraft:barrier
 execute as @s[scores={imo-a004xa=50..52,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=53..57,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
@@ -36,7 +36,7 @@ execute as @s[scores={imo-a004xa=69..70,imo-a004xc=1}] at @s align xz positioned
 execute as @s[scores={imo-a004xa=71..73,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=71..73,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock1
 execute as @s[scores={imo-a004xa=74..77,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:melon replace minecraft:barrier
-execute as @s[scores={imo-a004xa=78,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:cow ~ ~2.5 ~
+execute as @s[scores={imo-a004xa=78,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:pig ~ ~2.5 ~
 execute as @s[scores={imo-a004xa=78,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:melon replace minecraft:barrier
 execute as @s[scores={imo-a004xa=79..82,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
 execute as @s[scores={imo-a004xa=83..84,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:clay replace minecraft:barrier
@@ -46,7 +46,7 @@ execute as @s[scores={imo-a004xa=91..94,imo-a004xc=1}] at @s align xz positioned
 execute as @s[scores={imo-a004xa=95..99,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
 execute as @s[scores={imo-a004xa=100..104,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=100..104,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock1
-execute as @s[scores={imo-a004xa=105,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:chicken ~ ~2.5 ~
+execute as @s[scores={imo-a004xa=105,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run summon minecraft:cow ~ ~2.5 ~
 execute as @s[scores={imo-a004xa=105..108,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:fns/randomnumber
 execute as @s[scores={imo-a004xa=105..108,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run function imo-one-block:block/spawnblock1
 execute as @s[scores={imo-a004xa=109..113,imo-a004xc=1}] at @s align xz positioned ~0.5 ~ ~0.5 run fill ~ ~ ~ ~ ~ ~ minecraft:grass_block replace minecraft:barrier
